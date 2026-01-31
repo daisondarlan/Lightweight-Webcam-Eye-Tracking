@@ -117,4 +117,4 @@ python main.py
 - Press SPACE to start the test sequence.
 - A green rectangle appears at random positions every ~3 s.
 - Move the dot into the rectangle and press `e` to record a success.
-- At the end, accuracy is displayed and saved under
+- At the end, accuracy is displayed and saved under the specified path.
