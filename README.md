@@ -118,3 +118,17 @@ python main.py
 - A green rectangle appears at random positions every ~3 s.
 - Move the dot into the rectangle and press `e` to record a success.
 - At the end, accuracy is displayed and saved under the specified path.
+
+If you find this work useful in your research, please consider citing our paper:
+```bash
+@article{fenyom2026lightweight,
+  title={Lightweight webcam-based eye tracking system for large display screens},
+  author={Fenyom, Ivan and Adedigba, Adeyinka and Darlan, Daison and Ajani, Oladayo S and Mallipeddi, Rammohan and Jae Joon, Hwang},
+  journal={Multimedia Tools and Applications},
+  volume={85},
+  number={1},
+  pages={12},
+  year={2026},
+  publisher={Springer}
+}
+}
