@@ -131,4 +131,3 @@ If you find this work useful in your research, please consider citing our paper:
   year={2026},
   publisher={Springer}
 }
-}
