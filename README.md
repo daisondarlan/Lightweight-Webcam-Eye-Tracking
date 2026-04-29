@@ -48,7 +48,7 @@ eye-tracking/
 ## ⚙️ Setup
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Anomaly33/Lightweight-Webcam-Eye-Tracking.git
+git clone https://github.com/daisondarlan/Lightweight-Webcam-Eye-Tracking.git
 cd Lightweight-Webcam-Eye-Tracking
 ```
 ### 2. Create Environment
